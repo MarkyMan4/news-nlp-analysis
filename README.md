@@ -1,2 +1,2 @@
-# NewsAnalysis
-News article collection and analysis. Need this piece for capstone
+# news-nlp-analysis
+Analysis and NLP for news articles. Need this piece for capstone
